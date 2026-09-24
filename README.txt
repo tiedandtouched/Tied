@@ -4,9 +4,9 @@ This is a ready-to-upload static website.
 
 Files:
 - index.html
-- images/product1.jpg
-- images/product2.jpg
-- images/product3.jpg
+- Images/product1.jpg
+- Images/product2.jpg
+- Images/product3.jpg
 
 Quick preview:
 Open index.html in a browser.
